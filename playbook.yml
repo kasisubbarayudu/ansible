@@ -1,0 +1,9 @@
+- name: Testing the playbook concept...
+  hosts: all
+  tasks:
+    - name: Listing the files in a specific directory...
+      shell: ls
+      register: mine
+    - name: displaying the content of mine...
+      debug:
+        var: mine
