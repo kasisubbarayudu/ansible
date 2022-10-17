@@ -1,7 +1,7 @@
-| Name          | Status                                              |
-| ------------- | -----------------                                   |
-| ansible       | <span style="color: green"> **Supported** </span>   |
-| Terraform     | <span style="color: red">  **Not Supported**        |
+| Name          | Status                         |
+| ------------- | -----------------              |
+| ansible       |  ```diff + **Supported**```    |
+| Terraform     |  ```diff - **Not Supported**```|
 # ansible
 `This kashi ram`
 ```bash
