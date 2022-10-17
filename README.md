@@ -1,7 +1,7 @@
-| Name          | Status            |
-| ------------- | ----------------- |
-| ansible       | **Supported**     |
-| Terraform     | **Not Supported** |
+| Name          | Status              |
+| ------------- | -----------------   |
+| ansible       | - **Supported**     |
+| Terraform     | - **Not Supported** |
 # ansible
 `This kashi ram`
 ```bash
