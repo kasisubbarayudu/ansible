@@ -1,7 +1,7 @@
----
-Hind: Urdu,Tamil
-Bharat: Hindi
----
+| Name          | Status        |
+| ------------- | ------------- |
+| ansible       | Supported     |
+| Terraform     | Not Supported |
 # ansible
 `This kashi ram`
 ```bash
