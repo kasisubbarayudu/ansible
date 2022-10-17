@@ -1,5 +1,5 @@
 ---
-Hind: Urdu
+Hind: Urdu,Tamil
 Bharat: Hindi
 ---
 # ansible
